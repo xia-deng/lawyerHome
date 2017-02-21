@@ -1,0 +1,245 @@
+===2017-02-21 16:28:59.830 INFO  com.xia.lawyer.Application Line:48  - Starting Application on LINDENG-E17RD with PID 12908 (D:\spring\LawyerHome\target\classes started by tingli2 in D:\spring\LawyerHome)
+===2017-02-21 16:28:59.839 INFO  com.xia.lawyer.Application Line:659 - No active profile set, falling back to default profiles: default
+===2017-02-21 16:29:03.854 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service Tomcat
+===2017-02-21 16:29:03.856 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.4
+===2017-02-21 16:29:04.012 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2017-02-21 16:29:04.961 INFO  com.alibaba.druid.pool.DruidDataSource Line:721 - {dataSource-1} inited
+===2017-02-21 16:29:10.985 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-8080"]
+===2017-02-21 16:29:11.004 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler [http-nio-8080]
+===2017-02-21 16:29:11.022 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2017-02-21 16:29:11.068 INFO  com.xia.lawyer.Application Line:57  - Started Application in 12.265 seconds (JVM running for 13.868)
+===2017-02-21 16:30:00.442 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2017-02-21 16:30:12.405 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2017-02-21 16:30:12.533 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2017-02-21 16:30:12.534 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2017-02-21 16:30:12.535 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2017-02-21 16:30:12.535 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2017-02-21 16:30:12.547 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * XML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF]     * VALIDXML
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 2]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 2]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2017-02-21 16:30:12.548 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2017-02-21 16:31:26.795 INFO  com.xia.lawyer.Application Line:48  - Starting Application on LINDENG-E17RD with PID 13884 (D:\spring\LawyerHome\target\classes started by tingli2 in D:\spring\LawyerHome)
+===2017-02-21 16:31:26.800 INFO  com.xia.lawyer.Application Line:659 - No active profile set, falling back to default profiles: default
+===2017-02-21 16:31:33.071 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service Tomcat
+===2017-02-21 16:31:33.073 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.4
+===2017-02-21 16:31:33.229 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2017-02-21 16:31:34.313 INFO  com.alibaba.druid.pool.DruidDataSource Line:721 - {dataSource-1} inited
+===2017-02-21 16:31:37.468 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-8080"]
+===2017-02-21 16:31:37.480 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler [http-nio-8080]
+===2017-02-21 16:31:37.497 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2017-02-21 16:31:37.522 INFO  com.xia.lawyer.Application Line:57  - Started Application in 11.538 seconds (JVM running for 12.371)
+===2017-02-21 16:32:18.989 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2017-02-21 16:32:19.147 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2017-02-21 16:32:19.214 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2017-02-21 16:32:19.218 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2017-02-21 16:32:19.219 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2017-02-21 16:32:19.219 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2017-02-21 16:32:19.226 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * VALIDXML
+[THYMELEAF]     * XML
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 2]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 2]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2017-02-21 16:32:19.226 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2017-02-21 17:11:45.226 INFO  com.xia.lawyer.Application Line:48  - Starting Application on LINDENG-E17RD with PID 332 (D:\spring\LawyerHome\target\classes started by tingli2 in D:\spring\LawyerHome)
+===2017-02-21 17:11:45.232 INFO  com.xia.lawyer.Application Line:659 - No active profile set, falling back to default profiles: default
+===2017-02-21 17:11:50.981 INFO  com.alibaba.druid.pool.DruidDataSource Line:721 - {dataSource-1} inited
+===2017-02-21 17:11:53.615 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service Tomcat
+===2017-02-21 17:11:53.616 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.4
+===2017-02-21 17:11:53.811 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2017-02-21 17:11:55.353 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-8080"]
+===2017-02-21 17:11:55.364 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler [http-nio-8080]
+===2017-02-21 17:11:55.380 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2017-02-21 17:11:55.408 INFO  com.xia.lawyer.Application Line:57  - Started Application in 10.963 seconds (JVM running for 11.949)
+===2017-02-21 17:12:03.089 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2017-02-21 17:12:03.247 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2017-02-21 17:12:03.308 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2017-02-21 17:12:03.308 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2017-02-21 17:12:03.309 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2017-02-21 17:12:03.309 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2017-02-21 17:12:03.316 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * XML
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF]     * VALIDXML
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 2]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 2]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2017-02-21 17:12:03.318 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2017-02-21 17:19:13.298 INFO  com.xia.lawyer.Application Line:48  - Starting Application on LINDENG-E17RD with PID 12956 (D:\spring\LawyerHome\target\classes started by tingli2 in D:\spring\LawyerHome)
+===2017-02-21 17:19:13.305 INFO  com.xia.lawyer.Application Line:659 - No active profile set, falling back to default profiles: default
+===2017-02-21 17:19:18.538 INFO  com.alibaba.druid.pool.DruidDataSource Line:721 - {dataSource-1} inited
+===2017-02-21 17:19:21.107 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service Tomcat
+===2017-02-21 17:19:21.109 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.4
+===2017-02-21 17:19:21.284 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2017-02-21 17:19:22.813 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-8080"]
+===2017-02-21 17:19:22.833 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler [http-nio-8080]
+===2017-02-21 17:19:22.845 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2017-02-21 17:19:22.867 INFO  com.xia.lawyer.Application Line:57  - Started Application in 10.349 seconds (JVM running for 11.502)
+===2017-02-21 17:19:42.092 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2017-02-21 17:19:42.221 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2017-02-21 17:19:42.286 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2017-02-21 17:19:42.286 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2017-02-21 17:19:42.287 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2017-02-21 17:19:42.287 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2017-02-21 17:19:42.298 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * VALIDXML
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * XML
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 2]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 2]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2017-02-21 17:19:42.300 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2017-02-21 17:20:35.270 INFO  com.xia.lawyer.Application Line:48  - Starting Application on LINDENG-E17RD with PID 10996 (D:\spring\LawyerHome\target\classes started by tingli2 in D:\spring\LawyerHome)
+===2017-02-21 17:20:35.276 INFO  com.xia.lawyer.Application Line:659 - No active profile set, falling back to default profiles: default
+===2017-02-21 17:20:39.743 INFO  com.alibaba.druid.pool.DruidDataSource Line:721 - {dataSource-1} inited
+===2017-02-21 17:20:43.098 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service Tomcat
+===2017-02-21 17:20:43.100 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.4
+===2017-02-21 17:20:43.329 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2017-02-21 17:20:45.539 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-8080"]
+===2017-02-21 17:20:45.564 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler [http-nio-8080]
+===2017-02-21 17:20:45.585 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2017-02-21 17:20:45.622 INFO  com.xia.lawyer.Application Line:57  - Started Application in 11.526 seconds (JVM running for 13.938)
+===2017-02-21 17:21:13.080 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2017-02-21 17:21:52.279 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2017-02-21 17:21:52.732 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2017-02-21 17:21:52.733 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2017-02-21 17:21:52.734 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2017-02-21 17:21:52.734 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2017-02-21 17:21:52.742 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * VALIDXML
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * XML
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 2]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 2]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2017-02-21 17:21:52.743 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2017-02-21 17:22:50.551 INFO  com.xia.lawyer.Application Line:48  - Starting Application on LINDENG-E17RD with PID 12836 (D:\spring\LawyerHome\target\classes started by tingli2 in D:\spring\LawyerHome)
+===2017-02-21 17:22:50.556 INFO  com.xia.lawyer.Application Line:659 - No active profile set, falling back to default profiles: default
+===2017-02-21 17:22:56.210 INFO  com.alibaba.druid.pool.DruidDataSource Line:721 - {dataSource-1} inited
+===2017-02-21 17:22:59.087 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service Tomcat
+===2017-02-21 17:22:59.089 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.4
+===2017-02-21 17:22:59.234 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2017-02-21 17:23:01.220 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-8080"]
+===2017-02-21 17:23:01.240 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler [http-nio-8080]
+===2017-02-21 17:23:01.260 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2017-02-21 17:23:01.294 INFO  com.xia.lawyer.Application Line:57  - Started Application in 11.762 seconds (JVM running for 12.729)
+===2017-02-21 17:23:14.371 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2017-02-21 17:23:49.697 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2017-02-21 17:23:50.030 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2017-02-21 17:23:50.031 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2017-02-21 17:23:50.031 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2017-02-21 17:23:50.032 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2017-02-21 17:23:50.039 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * VALIDXML
+[THYMELEAF]     * XML
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 2]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 2]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2017-02-21 17:23:50.039 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+===2017-02-21 17:26:55.042 INFO  com.xia.lawyer.Application Line:48  - Starting Application on LINDENG-E17RD with PID 14316 (D:\spring\LawyerHome\target\classes started by tingli2 in D:\spring\LawyerHome)
+===2017-02-21 17:26:55.046 INFO  com.xia.lawyer.Application Line:659 - No active profile set, falling back to default profiles: default
+===2017-02-21 17:27:00.307 INFO  com.alibaba.druid.pool.DruidDataSource Line:721 - {dataSource-1} inited
+===2017-02-21 17:27:02.809 INFO  org.apache.catalina.core.StandardService Line:179 - Starting service Tomcat
+===2017-02-21 17:27:02.811 INFO  org.apache.catalina.core.StandardEngine Line:179 - Starting Servlet Engine: Apache Tomcat/8.5.4
+===2017-02-21 17:27:02.971 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring embedded WebApplicationContext
+===2017-02-21 17:27:04.535 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Initializing ProtocolHandler ["http-nio-8080"]
+===2017-02-21 17:27:04.554 INFO  org.apache.coyote.http11.Http11NioProtocol Line:179 - Starting ProtocolHandler [http-nio-8080]
+===2017-02-21 17:27:04.574 INFO  org.apache.tomcat.util.net.NioSelectorPool Line:179 - Using a shared selector for servlet write/read
+===2017-02-21 17:27:04.603 INFO  com.xia.lawyer.Application Line:57  - Started Application in 10.395 seconds (JVM running for 11.228)
+===2017-02-21 17:27:07.416 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:179 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+===2017-02-21 17:27:07.553 INFO  org.thymeleaf.TemplateEngine Line:825 - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+===2017-02-21 17:27:07.626 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:99  - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+===2017-02-21 17:27:07.626 INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver Line:110 - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+===2017-02-21 17:27:07.627 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:72  - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+===2017-02-21 17:27:07.634 INFO  org.thymeleaf.messageresolver.AbstractMessageResolver Line:78  - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+===2017-02-21 17:27:07.641 INFO  org.thymeleaf.TemplateEngine.CONFIG Line:123 - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * XML
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF]     * VALIDXML
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 2]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 2]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+===2017-02-21 17:27:07.642 INFO  org.thymeleaf.TemplateEngine Line:838 - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
